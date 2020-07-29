@@ -18,7 +18,7 @@ if path.exists(home + "/InstaPy/logs/" + insta_username + "/" + insta_username +
   os.remove(home + "/InstaPy/logs/" + insta_username + "/" + insta_username + "_cookie.pkl")
 
 #array of hashtags to like and the min and max range for number of likes
-hashtags_to_like = ["drones","fpvracing","BRC","burningman","blackrockcity","atx","miniquad","like4follow","betafpv","bigbend","blm","getfpv","FPV","instalove","like4like","betafpv","betaflight","arduipilot","dji","droneoftheday","timelapse","astrophotography","milkywaygalaxy","defundthepolice","defundapd","austin","multirotor","multicopter"]
+hashtags_to_like = ["hashtag1","hashtag2"]
 min_likes = 5
 max_likes = 20
 
